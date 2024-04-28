@@ -1,6 +1,8 @@
 # Microsoft AzureではじめるAI活用（画像編）
 Microsoft Azure Cognitive Servicesを使って、画像に対してAIでどのようなことができるかを解説した技術同人誌に掲載しているコードと必要なデータの一覧です。
 
+[書籍はこちら](https://techbookfest.org/product/kjTaWvpP97pfYKuubhBVZN?productVariantID=9ZQ9jg9WZ6mkmZKz8Cni4j)
+
 コードとデータは以下の節のものが対象です。
 
 ## 5-2 OCRで文字を取り出してみよう
